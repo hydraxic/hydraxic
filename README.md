@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @hydraxic
-- 👀 I’m interested in Python and LuaU, and I'm currently working on a Discord bot.
-- 🌱 I’m currently learning nothing right now, but maybe JavaScript soon.
+- 👀 I’m interested in Python and LuaU, and I'm currently learning C# and making a Terraria mod.
+- 🌱 I’m currently learning C#.
 - 💞️ I’m looking to collaborate on not much right now.
 - 📫 How to reach me: hydraxic#1539 on Discord.
 
