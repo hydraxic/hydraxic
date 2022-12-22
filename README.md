@@ -12,6 +12,7 @@ From 2021 - 2022, I created a Discord bot to help people flip items on the Aucti
 
 From May 2022 - present, I'm developing a mobile sudoku game right now. This was to learn using Unity and C# but I guess it turned into something bigger. <br />
 
+Dec 2022 - present. Started some 3D game development for fun.
 <!---
 hydraxic/hydraxic is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
