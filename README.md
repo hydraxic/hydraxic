@@ -1,4 +1,4 @@
-Undergraduate Electrical Engineering Student @ Queen's University
+2nd Year Undergraduate Electrical Engineering Student @ Queen's University
 
 # Primary Skills
 **Languages**: Python, C#, Swift, C, Lua
